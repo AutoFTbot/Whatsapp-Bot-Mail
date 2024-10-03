@@ -1,5 +1,5 @@
 # WhatsApp Bot with Temporary Email and Gmail Integration
-
+![Bot Preview](preview.png)
 This project is a WhatsApp bot that allows users to generate temporary email addresses and check their inboxes using the Gmail API. It's designed to help users manage temporary communications efficiently.
 
 ## Features
